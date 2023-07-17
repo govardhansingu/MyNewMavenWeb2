@@ -39,16 +39,16 @@
 						<div class="sidebar">
 							<ul>
 								<li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\project01\images\github.png" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\github.png" width="128" height="112" alt=""></a>
 								</li>
 								<li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\project01\images\buildtools.png" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\buildtools.png" width="128" height="112" alt=""></a>
 								</li>
 								<li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\project01\images\containertools.png" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\containertools.png" width="128" height="112" alt=""></a>
 								</li>
 <li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\project01\images\monitortools.jpg" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\monitortools.jpg" width="128" height="112" alt=""></a>
 								</li>
 							</ul>
 						</div>
