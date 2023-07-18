@@ -13,7 +13,7 @@
 	<div id="background">
 		<div id="page">
 			<div id="header">
-				<a href="index.html"><img id="logo" src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\project01\images\devops.jpeg" width="300" height="100" alt=""></a>
+				<a href="index.html"><img id="logo" src="images/devops.jpeg" width="300" height="100" alt=""></a>
 				<ul class="navigation">
 					<li>
 						<a class="active" href="index.html">HOME</a>
@@ -39,16 +39,16 @@
 						<div class="sidebar">
 							<ul>
 								<li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\github.png" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="images/github.png" width="128" height="112" alt=""></a>
 								</li>
 								<li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\buildtools.png" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="images/buildtools.png" width="128" height="112" alt=""></a>
 								</li>
 								<li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\containertools.png" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="images/containertools.png" width="128" height="112" alt=""></a>
 								</li>
 <li>
-									<a href="index.html"><img src="C:\Users\might\OneDrive\Desktop\DevopsByXtream\MavenWebProject2\src\main\webapp\images\monitortools.jpg" width="128" height="112" alt=""></a>
+									<a href="index.html"><img src="images/monitortools.jpg" width="128" height="112" alt=""></a>
 								</li>
 							</ul>
 						</div>
