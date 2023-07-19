@@ -34,7 +34,7 @@
 							<a href="Documents/YAML.docx" class="button">YAML</a> 
 							<a href="Documents/DevopsTools.pdf" class="button">TOOLS</a> 
 							<a class="button" href="Documents/Material_Devops.docx">MATERIAL</a>
-							<a class="button" href="Documents/python.pdf">PYTHON BOOK</a>
+							<a class="button" href="https://pdfroom.com/books/learn-python-3-the-hard-way-a-very-simple-introduction-to-the-terrifyingly-beautiful-world-of-computers-and-code/RPkdNLnA2Xr">PYTHON BOOK</a>
 							<a class="button" href="Documents/Interview_Questions.docx">INTERVIEW_QTNS</a>
 							<a class="button" href="https://in.linkedin.com/">JOBS</a>
 							<a class="button" href="https://youtu.be/EtJy69cEOtQ">LEARN IN 20HRS</a>
