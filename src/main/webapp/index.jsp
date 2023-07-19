@@ -35,8 +35,8 @@
 							<a href="Documents/DevopsTools.pdf" class="button">TOOLS</a> 
 							<a class="button" href="Documents/Material_Devops.docx">MATERIAL</a>
 							
-							<a class="button" href="Documents/Material_Devops.docx">PYTHON</a>.
-							<a class="button" href="Documents/Material_Devops.docx">INTERVIEW QTNS</a>
+							<a class="button" href="Documents/https://www.booksfree.org/learn-python-3-the-hard-way-pdf/">PYTHON</a>.
+							<a class="button" href="Documents/Interview_Questions.docx">INTERVIEW QTNS</a>
 							
 							<a class="button" href="https://in.linkedin.com/">JOBS</a>
 							<a class="button" href="https://youtu.be/EtJy69cEOtQ">LEARN IN 20HRS</a>
