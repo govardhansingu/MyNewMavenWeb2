@@ -15,7 +15,7 @@
 			<div id="header">
 				<a href="index.html"><img id="logo" src="images/devops.jpeg" width="300" height="100" alt=""></a>
 				<ul class="navigation">
-					<li>
+					<li>	
 						<a class="active" href="index.html">HOME</a>
 					</li>
 				</ul>
@@ -24,14 +24,22 @@
 				<div class="featured">
 					<div class="section"> <img src="images/home.jpg" width="950" height="439" alt="">
 						<div>
-							<h2> <a href="index.html">Learn Devops from Zero to Hero with a clear Devops Road Map</span></a> </h2>
+							<h2> <a href="index.html">Learn Devops from Zero to Hero</span></a> </h2>
 							<p>
 								DevOps is all about managing software and operations teams for efficient development and deployment of software. Your experience in software testing will undoubtedly help you in developing and testing new software faster.
 							</p>
-							<a href="index.html" class="button">PRE-REQUISITES</a> <a href="index.html" class="button">TOOLS</a> </div>
+							<a href="Documents/demo_slide.pptx" class="button">INTRO</a> 
+							<a href="Documents/LinuxBasics.docx" class="button">Linux</a> 
+							<a href="Documents/YAML.docx" class="button">YAML</a> 
+							<a href="Documents/DevopsTools.pdf" class="button">TOOLS</a> 
+							<a class="button" href="Documents/Material_Devops.docx">MATERIAL</a>
+							<a class="button" href="Documents/python.pdf">PYTHON BOOK</a>
+							<a class="button" href="Documents/Interview_Questions.docx">INTERVIEW_QTNS</a>
+							</div>
+						</div>
 					</div>
-				</div>
-				<div id="content">
+				
+					<div id="content">
 					<div class="header">
 						<h2><a href="index.html">PRODUCT SUMMARY</a></h2>
 					</div>
