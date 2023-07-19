@@ -14,6 +14,7 @@
 		<div id="page">
 			<div id="header">
 				<a href="index.html"><img id="logo" src="images/devops.jpeg" width="300" height="100" alt=""></a>
+				<a href="index.html"><img id="logo" src="images/DevTools.jpeg" width="300" height="100" alt=""></a>
 				<ul class="navigation">
 					<li>	
 						<a class="active" href="index.html">HOME</a>
