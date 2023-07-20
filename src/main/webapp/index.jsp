@@ -26,14 +26,15 @@
 					<div class="section"> <img src="images/home.jpg" width="950" height="439" alt="">
 						<div>
 							<h2> <a href="index.html">Learn Devops from Zero to Hero</span></a> </h2>
-							<p>
+							
 								DevOps is all about managing software and operations teams for efficient development and deployment of software. Your experience in software testing will undoubtedly help you in developing and testing new software faster.
-							</p>
+							<br/>
 							<a href="Documents/demo_slide.pptx" class="button">INTRO</a> 
 							<a href="Documents/LinuxBasics.docx" class="button">Linux</a> 
 							<a href="Documents/YAML.docx" class="button">YAML</a> 
 							<a href="Documents/DevopsTools.pdf" class="button">TOOLS</a> 
 							<a class="button" href="Documents/Material_Devops.docx">MATERIAL</a>
+							<a href="Documents/Agile_Methodology.docx" class="button">AGILE METHOD</a> 
 							
 							<a class="button" href="https://www.booksfree.org/learn-python-3-the-hard-way-pdf/">PYTHON</a>.
 							<a class="button" href="Documents/Interview_Questions.docx">INTERVIEW QTNS</a>
@@ -52,23 +53,29 @@
 						<div class="sidebar">
 							<ul>
 								<li>
-									<a href="index.html"><img src="images/github.png" width="128" height="112" alt=""></a>
+									<a href="https://github.com/"><img src="images/github.png" width="128" height="112" alt=""></a>
+								</li>
+								<br/><br/>
+								<li>
+									<a href="https://maven.apache.org/"><img src="images/buildtools.png" width="128" height="112" alt=""></a>
+								</li>
+								<br/><br/>
+								<li>
+									<a href="https://www.sonarsource.com/products/sonarqube/"><img src="images/sonarqube.png" width="128" height="112" alt=""></a>
 								</li>
 								<li>
-									<a href="index.html"><img src="images/buildtools.png" width="128" height="112" alt=""></a>
+									<a href="https://www.docker.com/"><img src="images/docker.png" width="128" height="112" alt=""></a>
 								</li>
+								<br/><br/>
 								<li>
-									<a href="index.html"><img src="images/containertools.png" width="128" height="112" alt=""></a>
-								</li>
-<li>
-									<a href="index.html"><img src="images/monitortools.jpg" width="128" height="112" alt=""></a>
+									<a href="https://prometheus.io/"><img src="images/monitortools.jpg" width="128" height="112" alt=""></a>
 								</li>
 							</ul>
 						</div>
 						<div class="content">
 							<ul>
 								<li>
-									<h2><a href="index.html">Version Controlling</a></h2>
+									<h2><a>VERSION CONTROLLING</a></h2>
 									<p>
 										What is Git?
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
@@ -82,38 +89,34 @@ What does Git do?
 Manage projects with Repositories
 Clone a project to work on a local copy
 Control and track changes with Staging and Committing
-Branch and Merge to allow for work on different parts and versions of a project
-Pull the latest version of the project to a local copy
-Push local updates to the main project
-Working with Git
-Initialize Git on a folder, making it a Repository
-Git now creates a hidden folder to keep track of changes in that folder
-When a file is changed, added or deleted, it is considered modified
-You select the modified files you want to Stage
-The Staged files are Committed, which prompts Git to store a permanent snapshot of the files
-Git allows you to see the full history of every commit.
-You can revert back to any previous commit.
-Git does not store a separate copy of every file in every commit, but keeps track of changes made in each commit!
-
+Branch and Merge to allow for work on different parts and versions of a project etc.,
 									</p>
-									
 								</li>
+
 								<li>
-									<h2><a href="index.html">BUILD TOOLS</a></h2>
+									<h2><a>BUILD TOOLS</a></h2>
 									<p>
 										Software build tools are used to automate the creation of executable applications from source code. They script or automate a variety of tasks, such as downloading dependencies, compiling and packaging code, running tests, and deployment. They can be triggered through the command line, inside an IDE, or by continuous integration tools after checking the code out of a repository and onto a build machine. Different build systems exist for different languages. Usually, build systems use either a domain-specific language or XML to specify a build.
 									</p>
-									
 								</li>
+								
 								<li>
-									<h2><a href="index.html">CONTAINARIZATION TOOLS</a></h2>
+									<h2><a>CODE QUALITY TOOLS</a></h2>
+									<p>
+										Code quality tools are automated tools/programs that would observe the code and point out any common issue/problem which could arise as a result of bad/improperly designed programs. These tools check the code for common issues and mistakes.
+									</p>
+								</li>
+								
+								<li>
+									<h2><a>CONTAINARIZATION TOOLS</a></h2>
 									<p>
 										Container orchestration automates the deployment, management, scaling, and networking of containers. Enterprises that need to deploy and manage hundreds or thousands of Linux® containers and hosts can benefit from container orchestration. 
 Container orchestration tools provide a framework for managing containers and microservices architecture at scale. There are many container orchestration tools that can be used for container lifecycle management. Some popular options are Kubernetes, Docker Swarm, and Apache Mesos.
 									</p>
-										
+								</li>	
 									
-									<h2><a href="index.html">MONITORING TOOLS</a></h2>
+									<li>
+									<h2><a>MONITORING TOOLS</a></h2>
 									<p>
 										Monitoring tools are used to continuously keep track of the status of the system in use, in order to have the earliest warning of failures, defects or problems and to improve them. There are monitoring tools for servers, networks, databases, security, performance, website and internet usage, and applications.
 									</p>
